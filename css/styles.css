@@ -18,6 +18,14 @@
     color: #3E64FF;
     font-family: "Comic Sans MS", "Comic Sans", cursive;
   }
+  input:hover
+  {
+    background-color: #F7EC09;
+  }
+  textarea:hover
+  {
+    background-color: #F7EC09;
+  }
 
 /*  CLASS SELECTORS  */
 
